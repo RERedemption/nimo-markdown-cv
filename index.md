@@ -24,55 +24,33 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 基本信息
 
-### **Carnegie Mellon University** `2018.9 - 2024.10`
+### **求职意向：技术美术** 
+### **现居地址：深圳** 
 
-```
-Pittsburgh, PA
-```
+## 教育经历
 
-- Ph.D. in Software Engineering
-- Dissertation: [_Authoring Conceptual Diagrams by Codifying Visual Representations_](https://wodenimoni.com/assets/nimo-dissertation.pdf)
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+### **广州软件学院** `2022.9 - 2026.6`
 
-### **Columbia University** `2016.9 - 2018.5`
+## 实习经历
 
-```
-New York, NY
-```
+### **腾讯游戏-IEG** `2025.5 - 至今`
 
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+#### **头发高光技术处理方案：** 
 
-### **Dickinson College** `2013.9 - 2016.5`
+-在UE5.5中修改引擎ShadingModel，基于寒霜SIGHGRAPH 2018的论文修改头发高光计算至课题中
+-实现逆光下头发边缘高光的高质量透射效果
 
-```
-Carlisle, PA
-```
+#### **运动系统搭建与学习：** 
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+-通过复刻ALS高级运动系统学习UE5.5动画系统模块的构造，并能够帮助导师完成运动系统的搭建与修改
+-通过复刻Lyra的动画系统模块，总结和实践出与ALS之间不同的解决方案与措施
 
-## Professional Experience
+#### **UE4.27中ES3.1架构下的材质方案：** 
 
-### **Brilliant** `2024.11 - `
-
-_Senior Research Engineer_
-
-Taken my expertise in designing developing domain-specific languages and toolings for diagram authoring tools, I am working on Brilliant's authoring platform for interactive lessons in STEM topics.
-
-
-### **Apple** `2022.5 - 2022.9`
-
-_AIML - HCMI - ML Research Intern_<br>
-
-At [Apple AI/ML](https://machinelearning.apple.com/), I worked on prototypes and features to improve the developer experience. Shipped [improved Swift code completion](https://developer.apple.com/documentation/xcode-release-notes/xcode-14_3-release-notes#Source-Editor) in Xcode and designed an syntactic code search algorithm published at PLDI'24.
-
-### **Microsoft Research** `2020.5 - 2020.8`
-
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience, published at UIST'21.
+-在低端机场景下完成所需材质的要求
+-实现了伪造的SSS植被材质方案，视差水晶材质方案，双法线清漆、碳纤维材质方案
 
 <!-- ### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
 
