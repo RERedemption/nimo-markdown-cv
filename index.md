@@ -7,7 +7,8 @@ email:
 homepage:
   url: https://www.zhihu.com/people/63-9-56-30
   text: https://www.zhihu.com/people/63-9-56-30
-phone:13650373433
+phone:
+ 13650373433
 ---
 
 # 古敬然 **技术美术**
