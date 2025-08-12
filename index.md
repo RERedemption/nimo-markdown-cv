@@ -53,37 +53,15 @@ Supported arguments:
 
 - 实现了伪造的SSS植被材质方案，视差水晶材质方案，双法线清漆、碳纤维材质方案
 
-<!-- ### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+## Publications
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+## Patent
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+## Mentoring
 
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment. -->
+## Honors & Awards
 
-
-## 在校经历
-
-### **NCDA全国高校数字大赛**   程序   `2024.04-2024.06`
-
-基于Unity3D核心开发的2D类肉鸽吸血鬼幸存者游戏（《保卫协议》），游戏Enemy设计者之一，基础的
-Enemy类框架搭建，基础的Enemy设计与接口设计。Enemy的生成机制，普通Enemy的攻击方式（子弹
-射击），精英怪（召唤类）的设计，BOSS的设计（包括攻击、移动、分阶段模式切换），刷怪机制的完
-善；
-- 使用到的技术有：C#、Unity引擎使用、有限状态机、软件架构等
-
-### **数字产品综合实践游戏开发**   TA 程序   `2024.09-2024.12`
-
-在校课堂组织分组，小组基于Unity3D为核心开发一款2D休闲动作类游戏（《山海经——进化之路》），
-在项目中担任程序与TA的职务，负责编写游戏的基本架构、进化功能的实现、2D美术骨骼绑定与动作动画
-实现、2D地图场景搭建、光效shader编写、BOSS的设计与攻击特效制作。
-- 使用的主要技术有：C#、Unity引擎使用、Shader编写、有限状态机、Spine骨骼动画
-
-### **CUSGA全国大学生GameJam**   TA   `2025.02-2025.05`
-使用Unity制作的卡牌肉鸽游戏《思维破译师》
-我在项目中担任TA的职责，负责美术流程规范、UI动效编写、后处理、卡牌动画与随从动画工作
+## Service
 
 
 <!-- ### Footer
