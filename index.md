@@ -1,15 +1,18 @@
 ---
 layout: cv
-title: 古敬然 - 技术美术
+title: 简历 - 依卞 - 技术美术
 email:
-  url: mailto:wode.nimo.ni@gmail.com
+  url: 1650031435@qq.com
   text: 1650031435@qq.com
 homepage:
-  url: https://wodenimoni.com
+  url: https://www.zhihu.com/people/63-9-56-30
   text: https://www.zhihu.com/people/63-9-56-30
+phone:
+  url:13650373433
+  text:13650373433
 ---
 
-# Wode **Ni**
+# 古敬然 **技术美术**
 
 <!--
 include contact information from the front matter
