@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 古敬然 - 技术美术
 email:
   url: mailto:wode.nimo.ni@gmail.com
-  text: wode.nimo.ni@gmail.com
+  text: 1650031435@qq.com
 homepage:
   url: https://wodenimoni.com
-  text: wodenimoni.com
+  text: https://www.zhihu.com/people/63-9-56-30
 ---
 
 # Wode **Ni**
