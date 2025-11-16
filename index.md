@@ -48,10 +48,10 @@ Supported arguments:
  - 在低端机场景下完成所需材质的要求
  - 实现了伪造的SSS植被材质方案，视差水晶材质方案，双法线清漆、碳纤维材质方案
 
- #### **使用MotionBuilder中Python脚本重定向动作：** 
+#### **使用MotionBuilder中Python脚本重定向动作：** 
  - 使用MB的Python脚本将云端中的动作集进行重定向
-
-  #### **自定义MetaHuman的工作流：** 
+ 
+#### **自定义MetaHuman的工作流：** 
  - 使用UV空间调整BlendShape、Wrap4D包裹等不同方式来实现项目头模至Metahuman格式
  
 
